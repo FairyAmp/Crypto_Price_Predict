@@ -10,4 +10,4 @@ A PyTorch implementation may be added to compare frameworks and model performanc
 
 ## 📌 Maintenance Note
 
-> **Note:** This codebase was originally written ~3 years ago. While the core deep learning architecture and logic remain sound, some dependencies or API calls (e.g., legacy `torch` export interfaces or earlier `tf.keras` syntax) may trigger deprecation warnings in newer framework releases.
+> **Note:** This codebase was originally written ~3 years ago. While the core deep learning architecture and logic remain sound, some dependencies or API calls (e.g., earlier `tf.keras` syntax) may trigger deprecation warnings in newer framework releases.
