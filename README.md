@@ -1,4 +1,4 @@
-TensorFlow implementation of a crypto price predictor.
+# TensorFlow implementation of a crypto price predictor.
 
 ## 📌 Overview
 
